@@ -1,0 +1,35 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: green;
+  height: 45px;
+  border-radius:10px;
+}
+.nav h2 {
+  color: #ffffff;
+  padding: 0;}
+  a {
+  color: rgb(249, 248, 246);
+  padding: 5px;
+  text-decoration: none;
+  font-size: 18px;
+  text-align: right;
+}
+.Get{
+    background-color: #131212;
+    border-radius: 15px;
+}
+table,tr{
+  border:2px solid green;
+  border-collapse: collapse;
+}
+tr:nth-child(even){
+  background-color:aqua
+}
+th,td{ padding:20px}
+#myheader{
+  text-align: center;
+  color:red;
+  text-decoration:underline;
+}
