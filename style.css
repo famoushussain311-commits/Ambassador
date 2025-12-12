@@ -46,3 +46,20 @@ p{
     font-size: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.mydiv{ background-color:rgb(221, 226, 221);
+    width:800px;
+    padding: 10px;
+    border-radius: 30px;
+    text-align:justify;
+    margin: 50px;
+}
+table{
+    width: 700px;
+}
+.view,.delete,.edit{
+    /* display:flex; */
+    gap:30px;
+}
+tr{
+
+}
